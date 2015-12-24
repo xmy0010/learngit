@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 and this is my first git repository.
 Git has a mutable index called stage.
 Create a new branch is quick and simple.
-This is for branch dev.
+This is for branch dev. How to deal with branchs?
