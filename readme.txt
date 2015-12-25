@@ -7,5 +7,5 @@ This is for branch dev. How to deal with branchs?
 
 Today we learn about branchs.
 
-This change is on the branch 'xmy0010'->'dev', I have to say pre operation is on'xmy0010', I made a mistake.
+This change is on the branch 'xmy0010', I have to say pre operation is on'xmy0010', I made a mistake.
  
